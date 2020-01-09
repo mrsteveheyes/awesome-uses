@@ -437,6 +437,17 @@ const pages = [
     tags: ['Full Stack', 'Developer', 'Front End', 'JavaScript', 'React'],
   },
   {
+    name: 'Béla Varga',
+    description: 'Developer & Designer',
+    url: 'http://ecmanauten.de/',
+    twitter: '@netzzwerg',
+    emoji: '🍺',
+    country: '🇩🇪',
+    computer: 'apple',
+    phone: 'android',
+    tags: ['JavaScript', 'Developer', 'Event Organizer', 'Teacher', 'Vue'],
+  },
+  {
     name: "David O'Trakoun",
     description: 'Software Engineer',
     url: 'https://www.davidosomething.com/uses/',
@@ -913,7 +924,7 @@ const pages = [
 
     // Dev Tags: Engineer, Developer, Designer, Front End, Back End, Full Stack,
     // Other: Tags: Entrepreneur, Teacher, Podcaster, YouTuber, Blogger, Speaker,
-    // Language Tags: JavaScript, PHP, Rails, Ruby, TypeScript, React, Vue, Node
+    // Language Tags: JavaScript, PHP, Full Stack, Ruby, TypeScript, React, Vue, Node
     tags: [
       'Developer',
       'Full Stack',
@@ -925,6 +936,26 @@ const pages = [
       'JavaScript',
       'React',
       'Node',
+    ],
+  },
+  {
+    name: 'Steve Heyes',
+    description:
+      'I like to use tech to build awesome things that makes peoples lives better',
+    url: 'https://steveheyes.co.uk/uses',
+    twitter: '@mrsteveheyes',
+    emoji: '👋',
+    country: '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
+    computer: 'mac',
+    phone: 'iphone',
+    tags: [
+      'Full Stack',
+      'Javascript',
+      'Node',
+      'React',
+      'React Native',
+      'Ruby',
+      'Rails'
     ],
   },
 ];
